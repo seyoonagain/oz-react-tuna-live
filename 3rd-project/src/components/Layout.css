@@ -1,0 +1,22 @@
+header {
+  width: 100vw;
+  background-color: black;
+  position: fixed;
+  top: 0;
+}
+
+.ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  display: flex;
+  gap: 10px;
+}
+
+.li:nth-child(3) {
+  margin-left: auto;
+}
+
+li {
+  cursor: pointer;
+}
