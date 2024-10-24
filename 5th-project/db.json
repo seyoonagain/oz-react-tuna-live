@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "First Post",
+      "body": "This is the first post."
+    },
+    {
+      "id": "2",
+      "title": "Second Post",
+      "body": "This is the second post."
+    },
+    {
+      "id": "52ab",
+      "title": "제목 누르면 상세페이지로 이동",
+      "body": "상세페이지에서는 글의 내용 확인 가능"
+    }
+  ]
+}
